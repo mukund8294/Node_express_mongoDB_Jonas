@@ -61,7 +61,7 @@ Node_express_mongoDB_Jonas/
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/sourav-kumar-357/Node_express_mongoDB_Jonas.git
+git clone https://github.com/mukund8294/Node_express_mongoDB_Jonas.git
 cd Node_express_mongoDB_Jonas
 npm install
 cp config.env.example config.env  # Add your env variables
@@ -113,11 +113,11 @@ JWT_EXPIRES_IN=90d
 
 ## 🙋‍♂️ Author
 
-**Sourav Kumar**
+**Balmukund Kumar**
 
-- [LinkedIn](https://www.linkedin.com/in/souravkumar1976)
-- [GitHub](https://github.com/sourav-kumar-357)
-- 📧 xsouravkumar357@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/balmukund-kumar-1ba73b368/)
+- [GitHub](https://github.com/mukund8294)
+- 📧 balmukund8294@gmail.com
 
 ---
 
